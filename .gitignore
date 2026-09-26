@@ -1,0 +1,22 @@
+# Visual Studio temporary files and build outputs
+Debug/
+Release/
+obj/
+bin/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.pdb
+*.ilk
+*.idb
+*.obj
+*.tlog
+*.log
+Output-Build.txt
+
+# Backup & Split folders
+_backups/
+_Upload_Split/
